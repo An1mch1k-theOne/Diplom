@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.vscode
+.idea
+*.md
+data/
+models/
+*.tar
+build_and_export.sh
+build_and_export.ps1
+.env
+.DS_Store
+Thumbs.db
